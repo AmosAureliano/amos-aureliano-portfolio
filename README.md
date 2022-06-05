@@ -1,7 +1,7 @@
 
-<div style="display: flex; align-items: center; justify-content: center; width: 100$">
+<center style="display: flex; align-items: center; justify-content: center; width: 100$">
     <h1 style="font-weight: 600">💻Portfólio Amós Aureliano💻</h1>
-</div>
+</center>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <p style="font-weight: 600">Criado com o objetivo de mostrar os projetos desenvolvidos ao longo da jornada</p>
